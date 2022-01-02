@@ -1,3 +1,9 @@
+10 Hour Online React Course and its Subjects.
+Original Class and Source Code outline can be found at John Smilga's github page:
+https://github.com/john-smilga/react-advanced-2020
+Class video guide can be found:
+https://www.youtube.com/watch?v=4UZrsTqkcW4
+
 ## Corresponding Projects
 
 #### useState
